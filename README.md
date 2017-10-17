@@ -15,7 +15,7 @@ BitSwap, bit-torrent mechanism exchanges data.
 
 4. running a localhost: ipfs daemon
 
-5. ipfs provides with an awesome interface to view the ipfs files. Can be viewed at http://localhost/5001/webui
+5. ipfs provides with an awesome interface to view the ipfs files. Can be viewed at http://localhost:5001/webui
 
 
 ## Projects
