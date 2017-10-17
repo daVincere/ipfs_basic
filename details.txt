@@ -1,0 +1,18 @@
+[ipfs initialisation]
+
+initializing IPFS node at /home/hasime/.ipfs
+generating 2048-bit RSA keypair...done
+peer identity: QmZcjuAvRPLJPUNvaoysMYMv33XDzVTcTh9v9cRtw3xshi
+to get started, enter:
+
+	ipfs cat /ipfs/QmS4ustL54uo8FzR9455qaxZwuMiUhyvMcX9Ba8nUH4uVv/readme
+
+
+[First.txt is stored in the below hash address]
+
+added QmS11QFMsAjNpqRsQCJJpitVv4VmQZKZrWRcyuLsZQrzCZ first.txt
+
+[First.txt new location]
+
+added QmYTyqtzx2YCnVgH9EkFYDntKTZirsdUbfdB1KoENwiiV7 first.txt
+
